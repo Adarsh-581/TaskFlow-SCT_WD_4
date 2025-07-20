@@ -97,14 +97,5 @@ server/
 - Errors are handled gracefully and surfaced to the user.
 - All data is persisted in MongoDB and reflected in the UI in real time.
 
-## 🧱 Next Steps
-- Google OAuth
-- Notifications & reminders
-- Analytics & dashboard
-- Testing (Jest)
-
-## 🤝 Contributing
-Pull requests and feedback are welcome!
-
 ---
 **Built with courage, energy, and intelligence.** 
